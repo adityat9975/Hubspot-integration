@@ -6,7 +6,7 @@ function App() {
   return (
     <AuthProvider>
       <div className="app-container">
-        <IntegrationForm />
+          <IntegrationForm />
       </div>
     </AuthProvider>
   );
